@@ -1,0 +1,4 @@
+pywhatkit
+fontstyle
+pyfiglet
+colorama
